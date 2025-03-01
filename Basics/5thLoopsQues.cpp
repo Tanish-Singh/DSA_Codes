@@ -44,9 +44,32 @@ int main(){
         }
         i1++;
     }
-    cout << (check1==true?"Its a prime in better aproach":"Not a prime in better aproach");
-    
+    cout << (check1==true?"Its a prime in better aproach\n":"Not a prime in better aproach\n");
 
-    
+
+    // sum of numbers divisible by 3
+
+    int n2 = 10;
+    int mul = 0;
+    int i2 = 1;
+    while(i2<=n2){
+        if(i2%3==0){
+            mul+=i2;
+        }
+        i2++;
+    }
+    cout<<"Multiple :"<<mul;
+
+    // factorial
+
+    int n3 = 5;
+    int fact = 1;
+    int i3=1;
+    while(i3<=n3){
+        fact*=i3;
+        i3++;
+    }
+    cout<<"\n" << fact;
+
     return 0;
     }
