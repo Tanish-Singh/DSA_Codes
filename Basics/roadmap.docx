@@ -1,0 +1,40 @@
+Here's an ordered flowchart for learning **Data Structures and Algorithms (DSA) using C++**:
+
+1️⃣ Prerequisites (Basic C++)**
+   - ✅ Variables, Data Types, and Operators  
+   - ✅ Control Structures (if-else, loops)  
+   - ✅ Functions and Recursion  
+   - ✅ Pointers and References  
+   - ✅ Arrays and Strings  
+   - ✅ Object-Oriented Programming (OOP) Basics  
+
+2️⃣ Mathematics for DSA**
+   - ✅ Bit Manipulation  
+   - ✅ Prime Numbers and Sieve Algorithm  
+   - ✅ Modular Arithmetic & GCD  
+   - ✅ Fast Exponentiation  
+
+3️⃣ Basic Data Structures**
+   - ✅ **Arrays** (Sorting, Searching)  
+   - ✅ **Linked Lists** (Singly, Doubly, Circular)  
+   - ✅ **Stacks** (LIFO, Implement using Arrays/Linked Lists)  
+   - ✅ **Queues** (FIFO, Circular Queue, Deque, Priority Queue)  
+
+4️⃣ Advanced Data Structures**
+   - ✅ **Hashing** (Hash Tables, Maps, Unordered Maps)  
+   - ✅ **Trees** (Binary Trees, BST, Heaps, Segment Trees, Trie)  
+   - ✅ **Graphs** (Adjacency List & Matrix, BFS, DFS, Dijkstra’s Algorithm)  
+
+5️⃣ Algorithmic Techniques**
+   - ✅ **Sorting Algorithms** (Bubble, Selection, Insertion, Quick, Merge, Counting, Radix, Bucket)  
+   - ✅ **Searching Algorithms** (Binary Search, Ternary Search, Exponential Search)  
+   - ✅ **Recursion & Backtracking** (Sudoku Solver, N-Queens, Subset Sum)  
+   - ✅ **Dynamic Programming (DP)** (Knapsack, Fibonacci, LIS, LCS)  
+   - ✅ **Greedy Algorithms** (Huffman Coding, Activity Selection)  
+   - ✅ **Graph Algorithms** (Dijkstra, Bellman-Ford, Floyd-Warshall, MST)  
+
+6️⃣ Competitive Programming & Problem-Solving**
+   - ✅ **Solve DSA Problems on Platforms:** LeetCode, CodeForces, CodeChef, AtCoder  
+   - ✅ **Practice Data Structures & Algorithms in C++ STL**  
+   - ✅ **Participate in Contests & Mock Tests**  
+
