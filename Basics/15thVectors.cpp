@@ -53,5 +53,21 @@ int main(){
     cout<<"Size of vector "<<vec3.size()<<endl;
     // capacity will give total number of elements possibly it can store
     cout<<"Capacity of Vector "<<vec3.capacity()<<endl;
+
+    // practice question // so containers in std libraries are passed as value in th function so
+    // to pass by value we do int sum(vector<int> &nums) so this & sign will pass it by reference
+    // to reflect changes in original vector
+
+    // to solve unique number using bitwise manipulation 
+    // {4,1,2,1,2} so a method we cna use is in linear time to cancel all numbers same and atlast only 1
+    // 1 unique number is left so we will do bit wise xor as for the same it will yeild zero
+    // so in this case simple take xor of all at once
+    // propertien n^n = 0 and n^0=n
+    vector<int> nums={4,1,2,1,2,4,8};
+    int ans=0;
+    for(int val: nums){
+        ans^=val;
+    }
+    cout<<ans<<" = Unique values";
     return 0;
 }
