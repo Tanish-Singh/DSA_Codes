@@ -33,7 +33,7 @@ int main(){
     // to see element at first and last and at a particular index
     cout<<"Front of vetor "<<vec1.front()<<endl;
     cout<<"Front of vetor "<<vec1.back()<<endl;
-    cout<<"Front of vetor "<<vec1.at(1)<<endl;
+    cout<<"Front of vetor "<<vec1.at(1)<<endl; // value at a particular index works as vec1[i]
 
     return 0;
 }
