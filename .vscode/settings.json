@@ -2,4 +2,8 @@
     "files.associations": {
         "iostream": "cpp"
     }
+    ,"C_Cpp.default.compilerArgs": [
+        "-std=c++17",
+        "-stdlib=libc++"
+    ]
 }
